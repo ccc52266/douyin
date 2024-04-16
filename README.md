@@ -1,1 +1,24 @@
 # douyin
+  - PROCESS-NAME,com.ss.android.ugc.aweme,TikTok
+  - DOMAIN-SUFFIX,amemv.com,TikTok
+  - DOMAIN-SUFFIX,douyincdn.com,TikTok
+  - DOMAIN-SUFFIX,douyinpic.com,TikTok
+  - DOMAIN-SUFFIX,douyinstatic.com,TikTok
+  - DOMAIN-SUFFIX,douyinvod.com,TikTok
+  - DOMAIN-SUFFIX,idouyinvod.com,TikTok
+  - DOMAIN-SUFFIX,ixigua.com,TikTok
+  - DOMAIN-SUFFIX,ixiguavideo.com,TikTok
+  - DOMAIN-SUFFIX,pstatp.com,TikTok
+  - DOMAIN-SUFFIX,snssdk.com,TikTok
+  - DOMAIN-SUFFIX,toutiao.com,TikTok
+  - DOMAIN-SUFFIX,mon.zijieapi.com,TikTok
+  - DOMAIN-SUFFIX,ttxyajs.data.kuiniuca.com,TikTok
+  - DOMAIN-SUFFIX,conf-darwin.xycdn.com,TikTok
+  - DOMAIN-SUFFIX,Douyin.com,TikTok
+  - DOMAIN-SUFFIX,Tiktok.com,TikTok
+  - DOMAIN-SUFFIX,Douyin.cn,TikTok
+  - DOMAIN-SUFFIX,Tiktok.cn,TikTok
+  - DOMAIN-SUFFIX,Douyinapp.com,TikTok
+  - DOMAIN-SUFFIX,Tiktokapp.com,TikTok
+  - DOMAIN-SUFFIX,Douyinlive.com,TikTok
+  - DOMAIN-SUFFIX,Tiktoklive.com,TikTok
