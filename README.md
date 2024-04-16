@@ -1,4 +1,5 @@
 # douyin
+payload
   - PROCESS-NAME,com.ss.android.ugc.aweme,TikTok
   - DOMAIN-SUFFIX,amemv.com,TikTok
   - DOMAIN-SUFFIX,douyincdn.com,TikTok
