@@ -1,6 +1,5 @@
 # douyin
 payload
-  - PROCESS-NAME,com.ss.android.ugc.aweme,TikTok
   - DOMAIN-SUFFIX,amemv.com,TikTok
   - DOMAIN-SUFFIX,douyincdn.com,TikTok
   - DOMAIN-SUFFIX,douyinpic.com,TikTok
@@ -23,3 +22,4 @@ payload
   - DOMAIN-SUFFIX,Tiktokapp.com,TikTok
   - DOMAIN-SUFFIX,Douyinlive.com,TikTok
   - DOMAIN-SUFFIX,Tiktoklive.com,TikTok
+  - PROCESS-NAME,com.ss.android.ugc.aweme,TikTok
