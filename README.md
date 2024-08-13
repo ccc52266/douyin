@@ -113,7 +113,6 @@ payload:
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
-  - DOMAIN-KEYWORD,fanqie
   - DOMAIN-SUFFIX,mon.zijieapi.com
   - DOMAIN-SUFFIX,ttxyajs.data.kuiniuca.com
   - DOMAIN-SUFFIX,conf-darwin.xycdn.com
