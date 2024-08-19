@@ -23,7 +23,6 @@ payload:
   - IP-CIDR,103.41.167.0/24,no-resolve
   - DOMAIN,sso.douyin.com
   - DOMAIN,www.douyin.com
-  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiaoapi.com
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,ksapisrv.com
@@ -111,7 +110,6 @@ payload:
   - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,ixiguavideo.com
   - DOMAIN-SUFFIX,pstatp.com
-  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,toutiao.com
   - DOMAIN-SUFFIX,mon.zijieapi.com
   - DOMAIN-SUFFIX,ttxyajs.data.kuiniuca.com
