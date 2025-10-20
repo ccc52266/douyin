@@ -122,4 +122,4 @@ payload:
   - DOMAIN-SUFFIX,Tiktokapp.com
   - DOMAIN-SUFFIX,Douyinlive.com
   - DOMAIN-SUFFIX,Tiktoklive.com
-  - PROCESS-NAME,com.ss.android.ugc.aweme
+  - PROCESS-NAME,com.ss.android.ugc.aweme.mobile
